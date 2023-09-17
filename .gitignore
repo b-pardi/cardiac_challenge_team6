@@ -1,4 +1,11 @@
 Task_3_4_Data/*
+!Task_3_4_Data/.gitkeep
+
 Task_3_4_Data_norm/*
+!Task_3_4_Data/.gitkeep
+
 intracardiac_dataset/*
+!intracardiac_dataset/.gitkeep
+
 ecg_dataset/*
+!ecg_dataset/.gitkeep

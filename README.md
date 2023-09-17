@@ -1,4 +1,12 @@
-# Data Science Challenge 2023 - Cardiac Electrophysiology
+# Team 6 Solution to the challenge problems presented below
+### Brandon Pardi
+### Shaan Pakala
+### Zichao Xiao
+### Javier Miranda
+### Lorenzo Booth (lead)
+
+
+## Data Science Challenge 2023 - Cardiac Electrophysiology
 
 This repository contains the notebooks and code for the 2023 Data Science Challenge (DSC) at Lawrence Livermore National Laboratory (LLNL).
 

@@ -1,3 +1,4 @@
-Task_3_4_Data/
-intracardiac_dataset/
-ecg_dataset/
+Task_3_4_Data/*
+Task_3_4_Data_norm/*
+intracardiac_dataset/*
+ecg_dataset/*
